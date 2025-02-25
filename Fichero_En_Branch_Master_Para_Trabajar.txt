@@ -16,6 +16,6 @@ Lineas para Jose
 32.-
 
 Lineas para Francisco
-40.-
-41.-
-42.-
+40.- Este es para el ejercicio
+41.- Modifico las 3 lineas
+42.- Para luego ver los cambios en GitHub
