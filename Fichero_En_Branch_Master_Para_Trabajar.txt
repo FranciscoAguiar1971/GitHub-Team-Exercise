@@ -1,0 +1,21 @@
+En este fichero vamos a trabajar los 4
+
+Lineas para Antonio
+10.-
+11.-
+12.-
+
+Lineas para Jorge
+20.-
+21.-
+22.-
+
+Lineas para Jose
+30.-
+31.-
+32.-
+
+Lineas para Francisco
+40.-
+41.-
+42.-

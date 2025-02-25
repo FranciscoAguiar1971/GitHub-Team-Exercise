@@ -19,3 +19,5 @@ El fichero sobre el que vamos a trabajar se llama Fichero_En_Branch_Master_Para_
 Añada o borren las lineas que quieran en su zona del fichero para evitar conflictos.
 
 Cuando hagan el Pull Request, tendrán que esperar mi aprobración para fusionar sus cambios en la Main.
+
+Que nuestro primo nos acompañe!
